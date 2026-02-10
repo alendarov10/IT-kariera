@@ -1,0 +1,553 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\MO1-IntroToPrograming\\S04-Loops\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1BA67DA-2ECA-AFF9-C6EF-136D9781F6DB}|P05-MinNumber\\P05-MinNumber.csproj|c:\\users\\admin\\desktop\\ibrahimalendar-it-career\\mo1-introtoprograming\\s04-loops\\p05-minnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1BA67DA-2ECA-AFF9-C6EF-136D9781F6DB}|P05-MinNumber\\P05-MinNumber.csproj|solutionrelative:p05-minnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{082EF4D3-E469-0129-EAB7-955DEF68861D}|P03-LatinLetters\\P03-LatinLetters.csproj|c:\\users\\admin\\desktop\\ibrahimalendar-it-career\\mo1-introtoprograming\\s04-loops\\p03-latinletters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{082EF4D3-E469-0129-EAB7-955DEF68861D}|P03-LatinLetters\\P03-LatinLetters.csproj|solutionrelative:p03-latinletters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A95ACA-5F65-3F14-473B-3513DC6A81BA}|P02-NumbersEnding7\\P02-NumbersEnding7.csproj|c:\\users\\admin\\desktop\\ibrahimalendar-it-career\\mo1-introtoprograming\\s04-loops\\p02-numbersending7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2A95ACA-5F65-3F14-473B-3513DC6A81BA}|P02-NumbersEnding7\\P02-NumbersEnding7.csproj|solutionrelative:p02-numbersending7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD39C31-391B-4176-838A-FD5A3F8FDF03}|P08-EqualCouples\\P08-EqualCouples.csproj|c:\\users\\admin\\desktop\\ibrahimalendar-it-career\\mo1-introtoprograming\\s04-loops\\p08-equalcouples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD39C31-391B-4176-838A-FD5A3F8FDF03}|P08-EqualCouples\\P08-EqualCouples.csproj|solutionrelative:p08-equalcouples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2837E718-F61E-4FF1-B247-1C8ED97C9FF6}|P33-MatrixOfNumbers\\P33-MatrixOfNumbers.csproj|c:\\users\\admin\\desktop\\ibrahimalendar-it-career\\mo1-introtoprograming\\s04-loops\\p33-matrixofnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2837E718-F61E-4FF1-B247-1C8ED97C9FF6}|P33-MatrixOfNumbers\\P33-MatrixOfNumbers.csproj|solutionrelative:p33-matrixofnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFAD422-1796-49A3-B8F2-F27856CDB07F}|P27-Factoriel\\P27-Factoriel.csproj|c:\\users\\admin\\desktop\\ibrahimalendar-it-career\\mo1-introtoprograming\\s04-loops\\p27-factoriel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEFAD422-1796-49A3-B8F2-F27856CDB07F}|P27-Factoriel\\P27-Factoriel.csproj|solutionrelative:p27-factoriel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4DFC288-B1C6-43B1-84A8-BD7BE44D9EEA}|P32-PyramidOfNumbers\\P32-PyramidOfNumbers.csproj|c:\\users\\admin\\desktop\\ibrahimalendar-it-career\\mo1-introtoprograming\\s04-loops\\p32-pyramidofnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4DFC288-B1C6-43B1-84A8-BD7BE44D9EEA}|P32-PyramidOfNumbers\\P32-PyramidOfNumbers.csproj|solutionrelative:p32-pyramidofnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E145DBAC-43E5-4C3B-895C-C7EC82838865}|P26-TheLCD (NOD)\\P26-TheLCD (NOD).csproj|c:\\users\\admin\\desktop\\ibrahimalendar-it-career\\mo1-introtoprograming\\s04-loops\\p26-thelcd (nod)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E145DBAC-43E5-4C3B-895C-C7EC82838865}|P26-TheLCD (NOD)\\P26-TheLCD (NOD).csproj|solutionrelative:p26-thelcd (nod)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CF993A8-1960-4833-9645-6F56937E0FE3}|P31-FibonacciNumber\\P31-FibonacciNumber.csproj|c:\\users\\admin\\desktop\\ibrahimalendar-it-career\\mo1-introtoprograming\\s04-loops\\p31-fibonaccinumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CF993A8-1960-4833-9645-6F56937E0FE3}|P31-FibonacciNumber\\P31-FibonacciNumber.csproj|solutionrelative:p31-fibonaccinumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB6CE47-D4ED-4D9F-B094-BAE8B4E1BC02}|P25-NumberInRange1_100\\P25-NumberInRange1_100.csproj|c:\\users\\admin\\desktop\\ibrahimalendar-it-career\\mo1-introtoprograming\\s04-loops\\p25-numberinrange1_100\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFB6CE47-D4ED-4D9F-B094-BAE8B4E1BC02}|P25-NumberInRange1_100\\P25-NumberInRange1_100.csproj|solutionrelative:p25-numberinrange1_100\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6F02D47-A8CF-4863-94F1-CCC558E2886D}|P24-OrderOf2kPlus1\\P24-OrderOf2kPlus1.csproj|c:\\users\\admin\\desktop\\ibrahimalendar-it-career\\mo1-introtoprograming\\s04-loops\\p24-orderof2kplus1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6F02D47-A8CF-4863-94F1-CCC558E2886D}|P24-OrderOf2kPlus1\\P24-OrderOf2kPlus1.csproj|solutionrelative:p24-orderof2kplus1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F3FC513-F3B1-4305-A2BB-2B1AA0847681}|P30-EvenNumberWithCheck\\P30-EvenNumberWithCheck.csproj|c:\\users\\admin\\desktop\\ibrahimalendar-it-career\\mo1-introtoprograming\\s04-loops\\p30-evennumberwithcheck\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F3FC513-F3B1-4305-A2BB-2B1AA0847681}|P30-EvenNumberWithCheck\\P30-EvenNumberWithCheck.csproj|solutionrelative:p30-evennumberwithcheck\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84E0633-625B-4DFC-BCBB-F4CC0F7FD269}|P29-PrimeNumber\\P29-PrimeNumber.csproj|c:\\users\\admin\\desktop\\ibrahimalendar-it-career\\mo1-introtoprograming\\s04-loops\\p29-primenumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E84E0633-625B-4DFC-BCBB-F4CC0F7FD269}|P29-PrimeNumber\\P29-PrimeNumber.csproj|solutionrelative:p29-primenumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80AE578B-32D3-43AA-B664-0928A1AB20A0}|P28-SumDigitsOfNumber\\P28-SumDigitsOfNumber.csproj|c:\\users\\admin\\desktop\\ibrahimalendar-it-career\\mo1-introtoprograming\\s04-loops\\p28-sumdigitsofnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80AE578B-32D3-43AA-B664-0928A1AB20A0}|P28-SumDigitsOfNumber\\P28-SumDigitsOfNumber.csproj|solutionrelative:p28-sumdigitsofnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F8ABDAB-E7E4-4835-840D-6FE1FB441D9D}|P23-EvenPowerOf2\\P23-EvenPowerOf2.csproj|c:\\users\\admin\\desktop\\ibrahimalendar-it-career\\mo1-introtoprograming\\s04-loops\\p23-evenpowerof2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F8ABDAB-E7E4-4835-840D-6FE1FB441D9D}|P23-EvenPowerOf2\\P23-EvenPowerOf2.csproj|solutionrelative:p23-evenpowerof2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47958582-5087-47B8-B20B-E3F9850B549E}|P22-NumbersPowerOf2\\P22-NumbersPowerOf2.csproj|c:\\users\\admin\\desktop\\ibrahimalendar-it-career\\mo1-introtoprograming\\s04-loops\\p22-numberspowerof2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47958582-5087-47B8-B20B-E3F9850B549E}|P22-NumbersPowerOf2\\P22-NumbersPowerOf2.csproj|solutionrelative:p22-numberspowerof2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\MO1-IntroToPrograming\\S04-Loops\\P18-House\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:P18-House\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E582953-EAF2-418B-B146-B7283455F274}|P17-SunGlasses\\P17-SunGlasses.csproj|c:\\users\\admin\\desktop\\ibrahimalendar-it-career\\mo1-introtoprograming\\s04-loops\\p17-sunglasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E582953-EAF2-418B-B146-B7283455F274}|P17-SunGlasses\\P17-SunGlasses.csproj|solutionrelative:p17-sunglasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC4B9D83-7190-4C66-B325-A21EE19473F4}|P15-DiamondOfStars\\P15-DiamondOfStars.csproj|c:\\users\\admin\\desktop\\ibrahimalendar-it-career\\mo1-introtoprograming\\s04-loops\\p15-diamondofstars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC4B9D83-7190-4C66-B325-A21EE19473F4}|P15-DiamondOfStars\\P15-DiamondOfStars.csproj|solutionrelative:p15-diamondofstars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7972A205-1174-43C2-8734-9CC97AB9E848}|P14-SquareFrame\\P14-SquareFrame.csproj|c:\\users\\admin\\desktop\\ibrahimalendar-it-career\\mo1-introtoprograming\\s04-loops\\p14-squareframe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7972A205-1174-43C2-8734-9CC97AB9E848}|P14-SquareFrame\\P14-SquareFrame.csproj|solutionrelative:p14-squareframe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E0BA734-FEFF-4A91-AB7F-EE93291547AC}|P21-\\P21-NumbersFromNto1.csproj|c:\\users\\admin\\desktop\\ibrahimalendar-it-career\\mo1-introtoprograming\\s04-loops\\p21-\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E0BA734-FEFF-4A91-AB7F-EE93291547AC}|P21-\\P21-NumbersFromNto1.csproj|solutionrelative:p21-\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D03BDF-80A3-4CEF-9EB7-E73A38B2A5CB}|P20-LoopByStep3\\P20-LoopByStep3.csproj|c:\\users\\admin\\desktop\\ibrahimalendar-it-career\\mo1-introtoprograming\\s04-loops\\p20-loopbystep3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D03BDF-80A3-4CEF-9EB7-E73A38B2A5CB}|P20-LoopByStep3\\P20-LoopByStep3.csproj|solutionrelative:p20-loopbystep3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5BB5F87-CFE1-4B91-B3CB-7A3063A32EE0}|P19-Diamond\\P19-Diamond.csproj|c:\\users\\admin\\desktop\\ibrahimalendar-it-career\\mo1-introtoprograming\\s04-loops\\p19-diamond\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5BB5F87-CFE1-4B91-B3CB-7A3063A32EE0}|P19-Diamond\\P19-Diamond.csproj|solutionrelative:p19-diamond\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363BC5E6-A05A-45C3-A078-2C94F43F9AB7}|P16-ChristmasTree\\P16-ChristmasTree.csproj|c:\\users\\admin\\desktop\\ibrahimalendar-it-career\\mo1-introtoprograming\\s04-loops\\p16-christmastree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363BC5E6-A05A-45C3-A078-2C94F43F9AB7}|P16-ChristmasTree\\P16-ChristmasTree.csproj|solutionrelative:p16-christmastree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5F7230-E523-4F6D-B3BE-3F57F61FC21E}|P13-TriangleOfDollar\\P13-TriangleOfDollar.csproj|c:\\users\\admin\\desktop\\ibrahimalendar-it-career\\mo1-introtoprograming\\s04-loops\\p13-triangleofdollar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC5F7230-E523-4F6D-B3BE-3F57F61FC21E}|P13-TriangleOfDollar\\P13-TriangleOfDollar.csproj|solutionrelative:p13-triangleofdollar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8300A47A-CFC5-4CDF-BCAB-6F327CA48D4D}|P12-SquareOfNxNStars\\P12-SquareOfNxNStars.csproj|c:\\users\\admin\\desktop\\ibrahimalendar-it-career\\mo1-introtoprograming\\s04-loops\\p12-squareofnxnstars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8300A47A-CFC5-4CDF-BCAB-6F327CA48D4D}|P12-SquareOfNxNStars\\P12-SquareOfNxNStars.csproj|solutionrelative:p12-squareofnxnstars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EED21B9-5C00-4076-842A-070A747A3E31}|P11-RectangleOfNxNStars\\P11-RectangleOfNxNStars.csproj|c:\\users\\admin\\desktop\\ibrahimalendar-it-career\\mo1-introtoprograming\\s04-loops\\p11-rectangleofnxnstars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EED21B9-5C00-4076-842A-070A747A3E31}|P11-RectangleOfNxNStars\\P11-RectangleOfNxNStars.csproj|solutionrelative:p11-rectangleofnxnstars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B138A34B-7415-4865-87B7-1888A85F6583}|P10-RectangleOf10x10Stars\\P10-RectangleOf10x10Stars.csproj|c:\\users\\admin\\desktop\\ibrahimalendar-it-career\\mo1-introtoprograming\\s04-loops\\p10-rectangleof10x10stars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B138A34B-7415-4865-87B7-1888A85F6583}|P10-RectangleOf10x10Stars\\P10-RectangleOf10x10Stars.csproj|solutionrelative:p10-rectangleof10x10stars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20376323-421E-4885-A7E8-53CB746334BE}|P09-SumOfTheOthers\\P09-SumOfTheOthers.csproj|c:\\users\\admin\\desktop\\ibrahimalendar-it-career\\mo1-introtoprograming\\s04-loops\\p09-sumoftheothers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20376323-421E-4885-A7E8-53CB746334BE}|P09-SumOfTheOthers\\P09-SumOfTheOthers.csproj|solutionrelative:p09-sumoftheothers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDED17BF-8548-4DD6-AE58-CE4DA32FD705}|P07-EvenOddSums\\P07-EvenOddSums.csproj|c:\\users\\admin\\desktop\\ibrahimalendar-it-career\\mo1-introtoprograming\\s04-loops\\p07-evenoddsums\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDED17BF-8548-4DD6-AE58-CE4DA32FD705}|P07-EvenOddSums\\P07-EvenOddSums.csproj|solutionrelative:p07-evenoddsums\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C595D9-A926-4FE8-B4E7-21D74988B398}|P06-LeftRightSum\\P06-LeftRightSum.csproj|c:\\users\\admin\\desktop\\ibrahimalendar-it-career\\mo1-introtoprograming\\s04-loops\\p06-leftrightsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C595D9-A926-4FE8-B4E7-21D74988B398}|P06-LeftRightSum\\P06-LeftRightSum.csproj|solutionrelative:p06-leftrightsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB737241-F286-8EDE-6504-16AA833D1D60}|P04-SumOfNumbers\\P04-SumOfNumbers.csproj|c:\\users\\admin\\desktop\\ibrahimalendar-it-career\\mo1-introtoprograming\\s04-loops\\p04-sumofnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB737241-F286-8EDE-6504-16AA833D1D60}|P04-SumOfNumbers\\P04-SumOfNumbers.csproj|solutionrelative:p04-sumofnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B483AAC-E964-7FD8-97CE-8B54C9E929D5}|P01-Numbers1To100\\P01-Numbers1To100.csproj|c:\\users\\admin\\desktop\\ibrahimalendar-it-career\\mo1-introtoprograming\\s04-loops\\p01-numbers1to100\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B483AAC-E964-7FD8-97CE-8B54C9E929D5}|P01-Numbers1To100\\P01-Numbers1To100.csproj|solutionrelative:p01-numbers1to100\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\MO1-IntroToPrograming\\S04-Loops\\P33-MatrixOfNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "P33-MatrixOfNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\MO1-IntroToPrograming\\S04-Loops\\P33-MatrixOfNumbers\\Program.cs",
+              "RelativeToolTip": "P33-MatrixOfNumbers\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T18:47:49.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\MO1-IntroToPrograming\\S04-Loops\\P28-SumDigitsOfNumber\\Program.cs",
+              "RelativeDocumentMoniker": "P28-SumDigitsOfNumber\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\MO1-IntroToPrograming\\S04-Loops\\P28-SumDigitsOfNumber\\Program.cs",
+              "RelativeToolTip": "P28-SumDigitsOfNumber\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T18:34:03.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\MO1-IntroToPrograming\\S04-Loops\\P27-Factoriel\\Program.cs",
+              "RelativeDocumentMoniker": "P27-Factoriel\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\MO1-IntroToPrograming\\S04-Loops\\P27-Factoriel\\Program.cs",
+              "RelativeToolTip": "P27-Factoriel\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T18:32:35.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\MO1-IntroToPrograming\\S04-Loops\\P26-TheLCD (NOD)\\Program.cs",
+              "RelativeDocumentMoniker": "P26-TheLCD (NOD)\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\MO1-IntroToPrograming\\S04-Loops\\P26-TheLCD (NOD)\\Program.cs",
+              "RelativeToolTip": "P26-TheLCD (NOD)\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T18:27:46.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\MO1-IntroToPrograming\\S04-Loops\\P25-NumberInRange1_100\\Program.cs",
+              "RelativeDocumentMoniker": "P25-NumberInRange1_100\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\MO1-IntroToPrograming\\S04-Loops\\P25-NumberInRange1_100\\Program.cs",
+              "RelativeToolTip": "P25-NumberInRange1_100\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T18:25:41.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\MO1-IntroToPrograming\\S04-Loops\\P24-OrderOf2kPlus1\\Program.cs",
+              "RelativeDocumentMoniker": "P24-OrderOf2kPlus1\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\MO1-IntroToPrograming\\S04-Loops\\P24-OrderOf2kPlus1\\Program.cs",
+              "RelativeToolTip": "P24-OrderOf2kPlus1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T18:24:23.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\MO1-IntroToPrograming\\S04-Loops\\P08-EqualCouples\\Program.cs",
+              "RelativeDocumentMoniker": "P08-EqualCouples\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\MO1-IntroToPrograming\\S04-Loops\\P08-EqualCouples\\Program.cs",
+              "RelativeToolTip": "P08-EqualCouples\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T14:00:38.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\MO1-IntroToPrograming\\S04-Loops\\P02-NumbersEnding7\\Program.cs",
+              "RelativeDocumentMoniker": "P02-NumbersEnding7\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\MO1-IntroToPrograming\\S04-Loops\\P02-NumbersEnding7\\Program.cs",
+              "RelativeToolTip": "P02-NumbersEnding7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T13:27:10.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\MO1-IntroToPrograming\\S04-Loops\\P03-LatinLetters\\Program.cs",
+              "RelativeDocumentMoniker": "P03-LatinLetters\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\MO1-IntroToPrograming\\S04-Loops\\P03-LatinLetters\\Program.cs",
+              "RelativeToolTip": "P03-LatinLetters\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T13:27:55.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\MO1-IntroToPrograming\\S04-Loops\\P05-MinNumber\\Program.cs",
+              "RelativeDocumentMoniker": "P05-MinNumber\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\MO1-IntroToPrograming\\S04-Loops\\P05-MinNumber\\Program.cs",
+              "RelativeToolTip": "P05-MinNumber\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T13:36:44.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\MO1-IntroToPrograming\\S04-Loops\\P29-PrimeNumber\\Program.cs",
+              "RelativeDocumentMoniker": "P29-PrimeNumber\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\MO1-IntroToPrograming\\S04-Loops\\P29-PrimeNumber\\Program.cs",
+              "RelativeToolTip": "P29-PrimeNumber\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T18:35:06.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\MO1-IntroToPrograming\\S04-Loops\\P30-EvenNumberWithCheck\\Program.cs",
+              "RelativeDocumentMoniker": "P30-EvenNumberWithCheck\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\MO1-IntroToPrograming\\S04-Loops\\P30-EvenNumberWithCheck\\Program.cs",
+              "RelativeToolTip": "P30-EvenNumberWithCheck\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA0wBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T18:41:40.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\MO1-IntroToPrograming\\S04-Loops\\P31-FibonacciNumber\\Program.cs",
+              "RelativeDocumentMoniker": "P31-FibonacciNumber\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\MO1-IntroToPrograming\\S04-Loops\\P31-FibonacciNumber\\Program.cs",
+              "RelativeToolTip": "P31-FibonacciNumber\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T18:43:59.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\MO1-IntroToPrograming\\S04-Loops\\P32-PyramidOfNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "P32-PyramidOfNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\MO1-IntroToPrograming\\S04-Loops\\P32-PyramidOfNumbers\\Program.cs",
+              "RelativeToolTip": "P32-PyramidOfNumbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T18:46:17.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\MO1-IntroToPrograming\\S04-Loops\\P23-EvenPowerOf2\\Program.cs",
+              "RelativeDocumentMoniker": "P23-EvenPowerOf2\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\MO1-IntroToPrograming\\S04-Loops\\P23-EvenPowerOf2\\Program.cs",
+              "RelativeToolTip": "P23-EvenPowerOf2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T18:21:46.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\MO1-IntroToPrograming\\S04-Loops\\P22-NumbersPowerOf2\\Program.cs",
+              "RelativeDocumentMoniker": "P22-NumbersPowerOf2\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\MO1-IntroToPrograming\\S04-Loops\\P22-NumbersPowerOf2\\Program.cs",
+              "RelativeToolTip": "P22-NumbersPowerOf2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T18:12:58.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\MO1-IntroToPrograming\\S04-Loops\\P21-\\Program.cs",
+              "RelativeDocumentMoniker": "P21-\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\MO1-IntroToPrograming\\S04-Loops\\P21-\\Program.cs",
+              "RelativeToolTip": "P21-\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T17:54:50.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\MO1-IntroToPrograming\\S04-Loops\\P20-LoopByStep3\\Program.cs",
+              "RelativeDocumentMoniker": "P20-LoopByStep3\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\MO1-IntroToPrograming\\S04-Loops\\P20-LoopByStep3\\Program.cs",
+              "RelativeToolTip": "P20-LoopByStep3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T14:56:33.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\MO1-IntroToPrograming\\S04-Loops\\P19-Diamond\\Program.cs",
+              "RelativeDocumentMoniker": "P19-Diamond\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\MO1-IntroToPrograming\\S04-Loops\\P19-Diamond\\Program.cs",
+              "RelativeToolTip": "P19-Diamond\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T14:51:35.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\MO1-IntroToPrograming\\S04-Loops\\P18-House\\Program.cs",
+              "RelativeDocumentMoniker": "P18-House\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\MO1-IntroToPrograming\\S04-Loops\\P18-House\\Program.cs",
+              "RelativeToolTip": "P18-House\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T14:45:51.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\MO1-IntroToPrograming\\S04-Loops\\P17-SunGlasses\\Program.cs",
+              "RelativeDocumentMoniker": "P17-SunGlasses\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\MO1-IntroToPrograming\\S04-Loops\\P17-SunGlasses\\Program.cs",
+              "RelativeToolTip": "P17-SunGlasses\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T14:40:59.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\MO1-IntroToPrograming\\S04-Loops\\P16-ChristmasTree\\Program.cs",
+              "RelativeDocumentMoniker": "P16-ChristmasTree\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\MO1-IntroToPrograming\\S04-Loops\\P16-ChristmasTree\\Program.cs",
+              "RelativeToolTip": "P16-ChristmasTree\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T14:39:41.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\MO1-IntroToPrograming\\S04-Loops\\P15-DiamondOfStars\\Program.cs",
+              "RelativeDocumentMoniker": "P15-DiamondOfStars\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\MO1-IntroToPrograming\\S04-Loops\\P15-DiamondOfStars\\Program.cs",
+              "RelativeToolTip": "P15-DiamondOfStars\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T14:34:04.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\MO1-IntroToPrograming\\S04-Loops\\P14-SquareFrame\\Program.cs",
+              "RelativeDocumentMoniker": "P14-SquareFrame\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\MO1-IntroToPrograming\\S04-Loops\\P14-SquareFrame\\Program.cs",
+              "RelativeToolTip": "P14-SquareFrame\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T14:31:13.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\MO1-IntroToPrograming\\S04-Loops\\P13-TriangleOfDollar\\Program.cs",
+              "RelativeDocumentMoniker": "P13-TriangleOfDollar\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\MO1-IntroToPrograming\\S04-Loops\\P13-TriangleOfDollar\\Program.cs",
+              "RelativeToolTip": "P13-TriangleOfDollar\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T14:29:06.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\MO1-IntroToPrograming\\S04-Loops\\P12-SquareOfNxNStars\\Program.cs",
+              "RelativeDocumentMoniker": "P12-SquareOfNxNStars\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\MO1-IntroToPrograming\\S04-Loops\\P12-SquareOfNxNStars\\Program.cs",
+              "RelativeToolTip": "P12-SquareOfNxNStars\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T14:23:19.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\MO1-IntroToPrograming\\S04-Loops\\P11-RectangleOfNxNStars\\Program.cs",
+              "RelativeDocumentMoniker": "P11-RectangleOfNxNStars\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\MO1-IntroToPrograming\\S04-Loops\\P11-RectangleOfNxNStars\\Program.cs",
+              "RelativeToolTip": "P11-RectangleOfNxNStars\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T14:21:56.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\MO1-IntroToPrograming\\S04-Loops\\P10-RectangleOf10x10Stars\\Program.cs",
+              "RelativeDocumentMoniker": "P10-RectangleOf10x10Stars\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\MO1-IntroToPrograming\\S04-Loops\\P10-RectangleOf10x10Stars\\Program.cs",
+              "RelativeToolTip": "P10-RectangleOf10x10Stars\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T14:15:57.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\MO1-IntroToPrograming\\S04-Loops\\P09-SumOfTheOthers\\Program.cs",
+              "RelativeDocumentMoniker": "P09-SumOfTheOthers\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\MO1-IntroToPrograming\\S04-Loops\\P09-SumOfTheOthers\\Program.cs",
+              "RelativeToolTip": "P09-SumOfTheOthers\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T14:01:25.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\MO1-IntroToPrograming\\S04-Loops\\P07-EvenOddSums\\Program.cs",
+              "RelativeDocumentMoniker": "P07-EvenOddSums\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\MO1-IntroToPrograming\\S04-Loops\\P07-EvenOddSums\\Program.cs",
+              "RelativeToolTip": "P07-EvenOddSums\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T13:56:12.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\MO1-IntroToPrograming\\S04-Loops\\P06-LeftRightSum\\Program.cs",
+              "RelativeDocumentMoniker": "P06-LeftRightSum\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\MO1-IntroToPrograming\\S04-Loops\\P06-LeftRightSum\\Program.cs",
+              "RelativeToolTip": "P06-LeftRightSum\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T13:55:18.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\MO1-IntroToPrograming\\S04-Loops\\P04-SumOfNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "P04-SumOfNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\MO1-IntroToPrograming\\S04-Loops\\P04-SumOfNumbers\\Program.cs",
+              "RelativeToolTip": "P04-SumOfNumbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA+wA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T13:33:42.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\MO1-IntroToPrograming\\S04-Loops\\P01-Numbers1To100\\Program.cs",
+              "RelativeDocumentMoniker": "P01-Numbers1To100\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\MO1-IntroToPrograming\\S04-Loops\\P01-Numbers1To100\\Program.cs",
+              "RelativeToolTip": "P01-Numbers1To100\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T13:21:53.373Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

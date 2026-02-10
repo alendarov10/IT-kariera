@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "P32-PyramidOfNumbers/1.0.0": {
+        "runtime": {
+          "P32-PyramidOfNumbers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P32-PyramidOfNumbers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

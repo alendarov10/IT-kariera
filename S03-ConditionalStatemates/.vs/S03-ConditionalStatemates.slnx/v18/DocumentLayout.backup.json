@@ -1,0 +1,493 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S03-ConditionalStatemates\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1DA6ADB-74C8-41DE-8BCC-3F74DB54E88E}|P24-Cinema\\P24-Cinema.csproj|c:\\users\\admin\\desktop\\ibrahimalendar-it-career\\s03-conditionalstatemates\\p24-cinema\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1DA6ADB-74C8-41DE-8BCC-3F74DB54E88E}|P24-Cinema\\P24-Cinema.csproj|solutionrelative:p24-cinema\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFED6B00-9CB8-471B-825D-5CDC8026E73C}|P23-AnimalClass\\P23-AnimalClass.csproj|c:\\users\\admin\\desktop\\ibrahimalendar-it-career\\s03-conditionalstatemates\\p23-animalclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFED6B00-9CB8-471B-825D-5CDC8026E73C}|P23-AnimalClass\\P23-AnimalClass.csproj|solutionrelative:p23-animalclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6020A3D6-D4A1-492E-8D81-60BD78E42915}|P20-InvalidNumber\\P20-InvalidNumber.csproj|c:\\users\\admin\\desktop\\ibrahimalendar-it-career\\s03-conditionalstatemates\\p20-invalidnumber\\p20-invalidnumber.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6020A3D6-D4A1-492E-8D81-60BD78E42915}|P20-InvalidNumber\\P20-InvalidNumber.csproj|solutionrelative:p20-invalidnumber\\p20-invalidnumber.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E2FFA2-FD25-47EE-8655-913AEC2FBDAC}|P22-DayOfWeek\\P22-DayOfWeek.csproj|c:\\users\\admin\\desktop\\ibrahimalendar-it-career\\s03-conditionalstatemates\\p22-dayofweek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E2FFA2-FD25-47EE-8655-913AEC2FBDAC}|P22-DayOfWeek\\P22-DayOfWeek.csproj|solutionrelative:p22-dayofweek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C28A8C-44A9-45B2-8994-98555C7F606E}|P21-BorderPoint\\P21-BorderPoint.csproj|c:\\users\\admin\\desktop\\ibrahimalendar-it-career\\s03-conditionalstatemates\\p21-borderpoint\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C28A8C-44A9-45B2-8994-98555C7F606E}|P21-BorderPoint\\P21-BorderPoint.csproj|solutionrelative:p21-borderpoint\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6020A3D6-D4A1-492E-8D81-60BD78E42915}|P20-InvalidNumber\\P20-InvalidNumber.csproj|c:\\users\\admin\\desktop\\ibrahimalendar-it-career\\s03-conditionalstatemates\\p20-invalidnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6020A3D6-D4A1-492E-8D81-60BD78E42915}|P20-InvalidNumber\\P20-InvalidNumber.csproj|solutionrelative:p20-invalidnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9A1647D-654C-4E33-9C30-6960261749A4}|P19-FruitVegetable\\P19-FruitVegetable.csproj|c:\\users\\admin\\desktop\\ibrahimalendar-it-career\\s03-conditionalstatemates\\p19-fruitvegetable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9A1647D-654C-4E33-9C30-6960261749A4}|P19-FruitVegetable\\P19-FruitVegetable.csproj|solutionrelative:p19-fruitvegetable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A405070-3F42-4805-A1E8-3CB4BE824B39}|P18-InsideRectangle\\P18-InsideRectangle.csproj|c:\\users\\admin\\desktop\\ibrahimalendar-it-career\\s03-conditionalstatemates\\p18-insiderectangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A405070-3F42-4805-A1E8-3CB4BE824B39}|P18-InsideRectangle\\P18-InsideRectangle.csproj|solutionrelative:p18-insiderectangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C992A70D-40CB-4ED4-AFEC-CEF14086F94E}|P17-SmallShop\\P17-SmallShop.csproj|c:\\users\\admin\\desktop\\ibrahimalendar-it-career\\s03-conditionalstatemates\\p17-smallshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C992A70D-40CB-4ED4-AFEC-CEF14086F94E}|P17-SmallShop\\P17-SmallShop.csproj|solutionrelative:p17-smallshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BCBDEC4-9099-4EE5-92D9-A31974C824FD}|P16-PersonalTitles\\P16-PersonalTitles.csproj|c:\\users\\admin\\desktop\\ibrahimalendar-it-career\\s03-conditionalstatemates\\p16-personaltitles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BCBDEC4-9099-4EE5-92D9-A31974C824FD}|P16-PersonalTitles\\P16-PersonalTitles.csproj|solutionrelative:p16-personaltitles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC2DC8A-7BC5-4CB5-8CCE-3FDC5054BCFD}|P15-NumberToWords_100\\P15-NumberToWords_100.csproj|c:\\users\\admin\\desktop\\ibrahimalendar-it-career\\s03-conditionalstatemates\\p15-numbertowords_100\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC2DC8A-7BC5-4CB5-8CCE-3FDC5054BCFD}|P15-NumberToWords_100\\P15-NumberToWords_100.csproj|solutionrelative:p15-numbertowords_100\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0E4F9D-8D20-45F8-889D-95787F2A51D9}|P12-Number100_200\\P12-Number100_200.csproj|c:\\users\\admin\\desktop\\ibrahimalendar-it-career\\s03-conditionalstatemates\\p12-number100_200\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B0E4F9D-8D20-45F8-889D-95787F2A51D9}|P12-Number100_200\\P12-Number100_200.csproj|solutionrelative:p12-number100_200\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0E4F9D-8D20-45F8-889D-95787F2A51D9}|P12-Number100_200\\P12-Number100_200.csproj|c:\\users\\admin\\desktop\\ibrahimalendar-it-career\\s03-conditionalstatemates\\p12-number100_200\\p12-number100_200.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3B0E4F9D-8D20-45F8-889D-95787F2A51D9}|P12-Number100_200\\P12-Number100_200.csproj|solutionrelative:p12-number100_200\\p12-number100_200.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5723EC1-1290-4399-A197-3D93BB410627}|P14-FigureArea\\P14-FigureArea.csproj|c:\\users\\admin\\desktop\\ibrahimalendar-it-career\\s03-conditionalstatemates\\p14-figurearea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5723EC1-1290-4399-A197-3D93BB410627}|P14-FigureArea\\P14-FigureArea.csproj|solutionrelative:p14-figurearea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16DCAE05-E3E6-4D8D-A01B-9358DFAEF8AF}|P11-UnitConvertor\\P11-UnitConvertor.csproj|c:\\users\\admin\\desktop\\ibrahimalendar-it-career\\s03-conditionalstatemates\\p11-unitconvertor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16DCAE05-E3E6-4D8D-A01B-9358DFAEF8AF}|P11-UnitConvertor\\P11-UnitConvertor.csproj|solutionrelative:p11-unitconvertor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CE6CA91-54DD-4427-BFD0-5AEED99B2EA2}|P13-SpeedInfo\\P13-SpeedInfo.csproj|c:\\users\\admin\\desktop\\ibrahimalendar-it-career\\s03-conditionalstatemates\\p13-speedinfo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CE6CA91-54DD-4427-BFD0-5AEED99B2EA2}|P13-SpeedInfo\\P13-SpeedInfo.csproj|solutionrelative:p13-speedinfo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88486AA8-A881-4913-ABDC-C54C9BDA49DD}|P10-SumOfSeconds\\P10-SumOfSeconds.csproj|c:\\users\\admin\\desktop\\ibrahimalendar-it-career\\s03-conditionalstatemates\\p10-sumofseconds\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88486AA8-A881-4913-ABDC-C54C9BDA49DD}|P10-SumOfSeconds\\P10-SumOfSeconds.csproj|solutionrelative:p10-sumofseconds\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86086AF4-9718-403F-A08E-EA5194CC7BD3}|P09-BonusPoint\\P09-BonusPoint.csproj|c:\\users\\admin\\desktop\\ibrahimalendar-it-career\\s03-conditionalstatemates\\p09-bonuspoint\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86086AF4-9718-403F-A08E-EA5194CC7BD3}|P09-BonusPoint\\P09-BonusPoint.csproj|solutionrelative:p09-bonuspoint\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9946C9D4-02D8-458C-884D-23CDAF4531A1}|P08-NumberToWords\\P08-NumberToWords.csproj|c:\\users\\admin\\desktop\\ibrahimalendar-it-career\\s03-conditionalstatemates\\p08-numbertowords\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9946C9D4-02D8-458C-884D-23CDAF4531A1}|P08-NumberToWords\\P08-NumberToWords.csproj|solutionrelative:p08-numbertowords\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF9DAC3D-6EE2-458F-ADDB-E00A334884AD}|P07-ThreeEqualNumbers\\P07-ThreeEqualNumbers.csproj|c:\\users\\admin\\desktop\\ibrahimalendar-it-career\\s03-conditionalstatemates\\p07-threeequalnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF9DAC3D-6EE2-458F-ADDB-E00A334884AD}|P07-ThreeEqualNumbers\\P07-ThreeEqualNumbers.csproj|solutionrelative:p07-threeequalnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{967BAEF9-86B0-4C6E-9209-EDA7AEE1262A}|P06-Add15ToTime\\P06-Add15ToTime.csproj|c:\\users\\admin\\desktop\\ibrahimalendar-it-career\\s03-conditionalstatemates\\p06-add15totime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{967BAEF9-86B0-4C6E-9209-EDA7AEE1262A}|P06-Add15ToTime\\P06-Add15ToTime.csproj|solutionrelative:p06-add15totime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F90D4D4-38F0-4AC4-929C-35A829BAB88A}|P05-SameWords\\P05-SameWords.csproj|c:\\users\\admin\\desktop\\ibrahimalendar-it-career\\s03-conditionalstatemates\\p05-samewords\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F90D4D4-38F0-4AC4-929C-35A829BAB88A}|P05-SameWords\\P05-SameWords.csproj|solutionrelative:p05-samewords\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43897E8-5EB2-493D-A735-1BEC1BC8F39F}|P05-GuessPassword\\P05-GuessPassword.csproj|c:\\users\\admin\\desktop\\ibrahimalendar-it-career\\s03-conditionalstatemates\\p05-guesspassword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43897E8-5EB2-493D-A735-1BEC1BC8F39F}|P05-GuessPassword\\P05-GuessPassword.csproj|solutionrelative:p05-guesspassword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E2FD1C-9B62-4779-91D1-D3D8C5A31783}|P04-Max_Of_2\\P04-Max_Of_2.csproj|c:\\users\\admin\\desktop\\ibrahimalendar-it-career\\s03-conditionalstatemates\\p04-max_of_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2E2FD1C-9B62-4779-91D1-D3D8C5A31783}|P04-Max_Of_2\\P04-Max_Of_2.csproj|solutionrelative:p04-max_of_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0078268D-D058-2D23-6DF8-892D3A3039E7}|P03-Odd_Or_Even\\P03-Odd_Or_Even.csproj|c:\\users\\admin\\desktop\\ibrahimalendar-it-career\\s03-conditionalstatemates\\p03-odd_or_even\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0078268D-D058-2D23-6DF8-892D3A3039E7}|P03-Odd_Or_Even\\P03-Odd_Or_Even.csproj|solutionrelative:p03-odd_or_even\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1401BD1-DC8A-AEFA-E7DF-E3AE51D1D204}|P02-Excellent_Or_Not\\P02-Excellent_Or_Not.csproj|c:\\users\\admin\\desktop\\ibrahimalendar-it-career\\s03-conditionalstatemates\\p02-excellent_or_not\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1401BD1-DC8A-AEFA-E7DF-E3AE51D1D204}|P02-Excellent_Or_Not\\P02-Excellent_Or_Not.csproj|solutionrelative:p02-excellent_or_not\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F26C5FA-4D24-C0EB-6F9E-0058FCB39E4A}|P01-ExcelentResults\\P01-ExcelentResults.csproj|c:\\users\\admin\\desktop\\ibrahimalendar-it-career\\s03-conditionalstatemates\\p01-excelentresults\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F26C5FA-4D24-C0EB-6F9E-0058FCB39E4A}|P01-ExcelentResults\\P01-ExcelentResults.csproj|solutionrelative:p01-excelentresults\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FA19687-34D2-8EC7-6692-EA3CA4826FAD}|S03-ConditionalStatemates\\S03-ConditionalStatemates.csproj|c:\\users\\admin\\desktop\\ibrahimalendar-it-career\\s03-conditionalstatemates\\s03-conditionalstatemates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FA19687-34D2-8EC7-6692-EA3CA4826FAD}|S03-ConditionalStatemates\\S03-ConditionalStatemates.csproj|solutionrelative:s03-conditionalstatemates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S03-ConditionalStatemates\\P24-Cinema\\Program.cs",
+              "RelativeDocumentMoniker": "P24-Cinema\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S03-ConditionalStatemates\\P24-Cinema\\Program.cs",
+              "RelativeToolTip": "P24-Cinema\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T20:33:58.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "P20-InvalidNumber",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S03-ConditionalStatemates\\P20-InvalidNumber\\P20-InvalidNumber.csproj",
+              "RelativeDocumentMoniker": "P20-InvalidNumber\\P20-InvalidNumber.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S03-ConditionalStatemates\\P20-InvalidNumber\\P20-InvalidNumber.csproj",
+              "RelativeToolTip": "P20-InvalidNumber\\P20-InvalidNumber.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-29T20:30:53.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S03-ConditionalStatemates\\P23-AnimalClass\\Program.cs",
+              "RelativeDocumentMoniker": "P23-AnimalClass\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S03-ConditionalStatemates\\P23-AnimalClass\\Program.cs",
+              "RelativeToolTip": "P23-AnimalClass\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T20:30:53.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S03-ConditionalStatemates\\P22-DayOfWeek\\Program.cs",
+              "RelativeDocumentMoniker": "P22-DayOfWeek\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S03-ConditionalStatemates\\P22-DayOfWeek\\Program.cs",
+              "RelativeToolTip": "P22-DayOfWeek\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T20:29:30.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S03-ConditionalStatemates\\P21-BorderPoint\\Program.cs",
+              "RelativeDocumentMoniker": "P21-BorderPoint\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S03-ConditionalStatemates\\P21-BorderPoint\\Program.cs",
+              "RelativeToolTip": "P21-BorderPoint\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T20:24:54.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S03-ConditionalStatemates\\P20-InvalidNumber\\Program.cs",
+              "RelativeDocumentMoniker": "P20-InvalidNumber\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S03-ConditionalStatemates\\P20-InvalidNumber\\Program.cs",
+              "RelativeToolTip": "P20-InvalidNumber\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T20:22:10.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S03-ConditionalStatemates\\P19-FruitVegetable\\Program.cs",
+              "RelativeDocumentMoniker": "P19-FruitVegetable\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S03-ConditionalStatemates\\P19-FruitVegetable\\Program.cs",
+              "RelativeToolTip": "P19-FruitVegetable\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T20:20:33.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S03-ConditionalStatemates\\P18-InsideRectangle\\Program.cs",
+              "RelativeDocumentMoniker": "P18-InsideRectangle\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S03-ConditionalStatemates\\P18-InsideRectangle\\Program.cs",
+              "RelativeToolTip": "P18-InsideRectangle\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T20:18:53.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S03-ConditionalStatemates\\P17-SmallShop\\Program.cs",
+              "RelativeDocumentMoniker": "P17-SmallShop\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S03-ConditionalStatemates\\P17-SmallShop\\Program.cs",
+              "RelativeToolTip": "P17-SmallShop\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAIwCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T20:16:41.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S03-ConditionalStatemates\\P16-PersonalTitles\\Program.cs",
+              "RelativeDocumentMoniker": "P16-PersonalTitles\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S03-ConditionalStatemates\\P16-PersonalTitles\\Program.cs",
+              "RelativeToolTip": "P16-PersonalTitles\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T20:14:48.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "P12-Number100_200",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S03-ConditionalStatemates\\P12-Number100_200\\P12-Number100_200.csproj",
+              "RelativeDocumentMoniker": "P12-Number100_200\\P12-Number100_200.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S03-ConditionalStatemates\\P12-Number100_200\\P12-Number100_200.csproj",
+              "RelativeToolTip": "P12-Number100_200\\P12-Number100_200.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-29T20:12:32.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S03-ConditionalStatemates\\P15-NumberToWords_100\\Program.cs",
+              "RelativeDocumentMoniker": "P15-NumberToWords_100\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S03-ConditionalStatemates\\P15-NumberToWords_100\\Program.cs",
+              "RelativeToolTip": "P15-NumberToWords_100\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAIwCgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T20:12:32.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S03-ConditionalStatemates\\P14-FigureArea\\Program.cs",
+              "RelativeDocumentMoniker": "P14-FigureArea\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S03-ConditionalStatemates\\P14-FigureArea\\Program.cs",
+              "RelativeToolTip": "P14-FigureArea\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T20:11:44.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S03-ConditionalStatemates\\P13-SpeedInfo\\Program.cs",
+              "RelativeDocumentMoniker": "P13-SpeedInfo\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S03-ConditionalStatemates\\P13-SpeedInfo\\Program.cs",
+              "RelativeToolTip": "P13-SpeedInfo\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAywB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T20:09:58.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S03-ConditionalStatemates\\P12-Number100_200\\Program.cs",
+              "RelativeDocumentMoniker": "P12-Number100_200\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S03-ConditionalStatemates\\P12-Number100_200\\Program.cs",
+              "RelativeToolTip": "P12-Number100_200\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T20:06:55.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S03-ConditionalStatemates\\P11-UnitConvertor\\Program.cs",
+              "RelativeDocumentMoniker": "P11-UnitConvertor\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S03-ConditionalStatemates\\P11-UnitConvertor\\Program.cs",
+              "RelativeToolTip": "P11-UnitConvertor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T20:05:01.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S03-ConditionalStatemates\\P10-SumOfSeconds\\Program.cs",
+              "RelativeDocumentMoniker": "P10-SumOfSeconds\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S03-ConditionalStatemates\\P10-SumOfSeconds\\Program.cs",
+              "RelativeToolTip": "P10-SumOfSeconds\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T19:40:08.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S03-ConditionalStatemates\\P09-BonusPoint\\Program.cs",
+              "RelativeDocumentMoniker": "P09-BonusPoint\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S03-ConditionalStatemates\\P09-BonusPoint\\Program.cs",
+              "RelativeToolTip": "P09-BonusPoint\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T19:38:00.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S03-ConditionalStatemates\\P08-NumberToWords\\Program.cs",
+              "RelativeDocumentMoniker": "P08-NumberToWords\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S03-ConditionalStatemates\\P08-NumberToWords\\Program.cs",
+              "RelativeToolTip": "P08-NumberToWords\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T19:34:30.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S03-ConditionalStatemates\\P07-ThreeEqualNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "P07-ThreeEqualNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S03-ConditionalStatemates\\P07-ThreeEqualNumbers\\Program.cs",
+              "RelativeToolTip": "P07-ThreeEqualNumbers\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T19:31:24.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S03-ConditionalStatemates\\P06-Add15ToTime\\Program.cs",
+              "RelativeDocumentMoniker": "P06-Add15ToTime\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S03-ConditionalStatemates\\P06-Add15ToTime\\Program.cs",
+              "RelativeToolTip": "P06-Add15ToTime\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T19:30:32.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S03-ConditionalStatemates\\P05-SameWords\\Program.cs",
+              "RelativeDocumentMoniker": "P05-SameWords\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S03-ConditionalStatemates\\P05-SameWords\\Program.cs",
+              "RelativeToolTip": "P05-SameWords\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T19:29:52.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S03-ConditionalStatemates\\P05-GuessPassword\\Program.cs",
+              "RelativeDocumentMoniker": "P05-GuessPassword\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S03-ConditionalStatemates\\P05-GuessPassword\\Program.cs",
+              "RelativeToolTip": "P05-GuessPassword\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T19:28:39.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S03-ConditionalStatemates\\P04-Max_Of_2\\Program.cs",
+              "RelativeDocumentMoniker": "P04-Max_Of_2\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S03-ConditionalStatemates\\P04-Max_Of_2\\Program.cs",
+              "RelativeToolTip": "P04-Max_Of_2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T19:27:06.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S03-ConditionalStatemates\\P03-Odd_Or_Even\\Program.cs",
+              "RelativeDocumentMoniker": "P03-Odd_Or_Even\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S03-ConditionalStatemates\\P03-Odd_Or_Even\\Program.cs",
+              "RelativeToolTip": "P03-Odd_Or_Even\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T14:34:51.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S03-ConditionalStatemates\\P02-Excellent_Or_Not\\Program.cs",
+              "RelativeDocumentMoniker": "P02-Excellent_Or_Not\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S03-ConditionalStatemates\\P02-Excellent_Or_Not\\Program.cs",
+              "RelativeToolTip": "P02-Excellent_Or_Not\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T14:31:49.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S03-ConditionalStatemates\\P01-ExcelentResults\\Program.cs",
+              "RelativeDocumentMoniker": "P01-ExcelentResults\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S03-ConditionalStatemates\\P01-ExcelentResults\\Program.cs",
+              "RelativeToolTip": "P01-ExcelentResults\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T14:25:58.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S03-ConditionalStatemates\\S03-ConditionalStatemates\\Program.cs",
+              "RelativeDocumentMoniker": "S03-ConditionalStatemates\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S03-ConditionalStatemates\\S03-ConditionalStatemates\\Program.cs",
+              "RelativeToolTip": "S03-ConditionalStatemates\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T14:24:11.116Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P21-\bin\Debug\net10.0\P21-NumbersFromNto1.exe
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P21-\bin\Debug\net10.0\P21-NumbersFromNto1.deps.json
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P21-\bin\Debug\net10.0\P21-NumbersFromNto1.runtimeconfig.json
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P21-\bin\Debug\net10.0\P21-NumbersFromNto1.dll
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P21-\bin\Debug\net10.0\P21-NumbersFromNto1.pdb
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P21-\obj\Debug\net10.0\P21-NumbersFromNto1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P21-\obj\Debug\net10.0\P21-NumbersFromNto1.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P21-\obj\Debug\net10.0\P21-NumbersFromNto1.AssemblyInfo.cs
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P21-\obj\Debug\net10.0\P21-NumbersFromNto1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P21-\obj\Debug\net10.0\P21-NumbersFromNto1.dll
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P21-\obj\Debug\net10.0\refint\P21-NumbersFromNto1.dll
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P21-\obj\Debug\net10.0\P21-NumbersFromNto1.pdb
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P21-\obj\Debug\net10.0\P21-NumbersFromNto1.genruntimeconfig.cache
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P21-\obj\Debug\net10.0\ref\P21-NumbersFromNto1.dll

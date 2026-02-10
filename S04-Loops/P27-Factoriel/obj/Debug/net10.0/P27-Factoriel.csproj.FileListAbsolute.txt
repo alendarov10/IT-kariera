@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P27-Factoriel\bin\Debug\net10.0\P27-Factoriel.exe
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P27-Factoriel\bin\Debug\net10.0\P27-Factoriel.deps.json
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P27-Factoriel\bin\Debug\net10.0\P27-Factoriel.runtimeconfig.json
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P27-Factoriel\bin\Debug\net10.0\P27-Factoriel.dll
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P27-Factoriel\bin\Debug\net10.0\P27-Factoriel.pdb
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P27-Factoriel\obj\Debug\net10.0\P27-Factoriel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P27-Factoriel\obj\Debug\net10.0\P27-Factoriel.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P27-Factoriel\obj\Debug\net10.0\P27-Factoriel.AssemblyInfo.cs
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P27-Factoriel\obj\Debug\net10.0\P27-Factoriel.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P27-Factoriel\obj\Debug\net10.0\P27-Factoriel.dll
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P27-Factoriel\obj\Debug\net10.0\refint\P27-Factoriel.dll
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P27-Factoriel\obj\Debug\net10.0\P27-Factoriel.pdb
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P27-Factoriel\obj\Debug\net10.0\P27-Factoriel.genruntimeconfig.cache
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P27-Factoriel\obj\Debug\net10.0\ref\P27-Factoriel.dll

@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P15-DiamondOfStars\bin\Debug\net10.0\P15-DiamondOfStars.exe
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P15-DiamondOfStars\bin\Debug\net10.0\P15-DiamondOfStars.deps.json
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P15-DiamondOfStars\bin\Debug\net10.0\P15-DiamondOfStars.runtimeconfig.json
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P15-DiamondOfStars\bin\Debug\net10.0\P15-DiamondOfStars.dll
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P15-DiamondOfStars\bin\Debug\net10.0\P15-DiamondOfStars.pdb
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P15-DiamondOfStars\obj\Debug\net10.0\P15-DiamondOfStars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P15-DiamondOfStars\obj\Debug\net10.0\P15-DiamondOfStars.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P15-DiamondOfStars\obj\Debug\net10.0\P15-DiamondOfStars.AssemblyInfo.cs
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P15-DiamondOfStars\obj\Debug\net10.0\P15-DiamondOfStars.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P15-DiamondOfStars\obj\Debug\net10.0\P15-DiamondOfStars.dll
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P15-DiamondOfStars\obj\Debug\net10.0\refint\P15-DiamondOfStars.dll
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P15-DiamondOfStars\obj\Debug\net10.0\P15-DiamondOfStars.pdb
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P15-DiamondOfStars\obj\Debug\net10.0\P15-DiamondOfStars.genruntimeconfig.cache
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P15-DiamondOfStars\obj\Debug\net10.0\ref\P15-DiamondOfStars.dll

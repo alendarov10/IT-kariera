@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P18-House\bin\Debug\net10.0\P18-House.exe
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P18-House\bin\Debug\net10.0\P18-House.deps.json
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P18-House\bin\Debug\net10.0\P18-House.runtimeconfig.json
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P18-House\bin\Debug\net10.0\P18-House.dll
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P18-House\bin\Debug\net10.0\P18-House.pdb
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P18-House\obj\Debug\net10.0\P18-House.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P18-House\obj\Debug\net10.0\P18-House.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P18-House\obj\Debug\net10.0\P18-House.AssemblyInfo.cs
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P18-House\obj\Debug\net10.0\P18-House.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P18-House\obj\Debug\net10.0\P18-House.dll
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P18-House\obj\Debug\net10.0\refint\P18-House.dll
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P18-House\obj\Debug\net10.0\P18-House.pdb
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P18-House\obj\Debug\net10.0\P18-House.genruntimeconfig.cache
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P18-House\obj\Debug\net10.0\ref\P18-House.dll

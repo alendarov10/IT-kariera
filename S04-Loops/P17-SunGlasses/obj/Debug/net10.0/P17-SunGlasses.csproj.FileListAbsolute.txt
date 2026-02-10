@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P17-SunGlasses\bin\Debug\net10.0\P17-SunGlasses.exe
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P17-SunGlasses\bin\Debug\net10.0\P17-SunGlasses.deps.json
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P17-SunGlasses\bin\Debug\net10.0\P17-SunGlasses.runtimeconfig.json
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P17-SunGlasses\bin\Debug\net10.0\P17-SunGlasses.dll
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P17-SunGlasses\bin\Debug\net10.0\P17-SunGlasses.pdb
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P17-SunGlasses\obj\Debug\net10.0\P17-SunGlasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P17-SunGlasses\obj\Debug\net10.0\P17-SunGlasses.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P17-SunGlasses\obj\Debug\net10.0\P17-SunGlasses.AssemblyInfo.cs
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P17-SunGlasses\obj\Debug\net10.0\P17-SunGlasses.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P17-SunGlasses\obj\Debug\net10.0\P17-SunGlasses.dll
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P17-SunGlasses\obj\Debug\net10.0\refint\P17-SunGlasses.dll
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P17-SunGlasses\obj\Debug\net10.0\P17-SunGlasses.pdb
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P17-SunGlasses\obj\Debug\net10.0\P17-SunGlasses.genruntimeconfig.cache
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P17-SunGlasses\obj\Debug\net10.0\ref\P17-SunGlasses.dll

@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P19-Diamond\bin\Debug\net10.0\P19-Diamond.exe
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P19-Diamond\bin\Debug\net10.0\P19-Diamond.deps.json
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P19-Diamond\bin\Debug\net10.0\P19-Diamond.runtimeconfig.json
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P19-Diamond\bin\Debug\net10.0\P19-Diamond.dll
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P19-Diamond\bin\Debug\net10.0\P19-Diamond.pdb
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P19-Diamond\obj\Debug\net10.0\P19-Diamond.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P19-Diamond\obj\Debug\net10.0\P19-Diamond.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P19-Diamond\obj\Debug\net10.0\P19-Diamond.AssemblyInfo.cs
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P19-Diamond\obj\Debug\net10.0\P19-Diamond.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P19-Diamond\obj\Debug\net10.0\P19-Diamond.dll
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P19-Diamond\obj\Debug\net10.0\refint\P19-Diamond.dll
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P19-Diamond\obj\Debug\net10.0\P19-Diamond.pdb
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P19-Diamond\obj\Debug\net10.0\P19-Diamond.genruntimeconfig.cache
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P19-Diamond\obj\Debug\net10.0\ref\P19-Diamond.dll

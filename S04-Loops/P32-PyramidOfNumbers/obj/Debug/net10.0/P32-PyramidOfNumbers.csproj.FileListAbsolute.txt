@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P32-PyramidOfNumbers\bin\Debug\net10.0\P32-PyramidOfNumbers.exe
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P32-PyramidOfNumbers\bin\Debug\net10.0\P32-PyramidOfNumbers.deps.json
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P32-PyramidOfNumbers\bin\Debug\net10.0\P32-PyramidOfNumbers.runtimeconfig.json
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P32-PyramidOfNumbers\bin\Debug\net10.0\P32-PyramidOfNumbers.dll
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P32-PyramidOfNumbers\bin\Debug\net10.0\P32-PyramidOfNumbers.pdb
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P32-PyramidOfNumbers\obj\Debug\net10.0\P32-PyramidOfNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P32-PyramidOfNumbers\obj\Debug\net10.0\P32-PyramidOfNumbers.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P32-PyramidOfNumbers\obj\Debug\net10.0\P32-PyramidOfNumbers.AssemblyInfo.cs
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P32-PyramidOfNumbers\obj\Debug\net10.0\P32-PyramidOfNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P32-PyramidOfNumbers\obj\Debug\net10.0\P32-PyramidOfNumbers.dll
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P32-PyramidOfNumbers\obj\Debug\net10.0\refint\P32-PyramidOfNumbers.dll
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P32-PyramidOfNumbers\obj\Debug\net10.0\P32-PyramidOfNumbers.pdb
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P32-PyramidOfNumbers\obj\Debug\net10.0\P32-PyramidOfNumbers.genruntimeconfig.cache
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P32-PyramidOfNumbers\obj\Debug\net10.0\ref\P32-PyramidOfNumbers.dll

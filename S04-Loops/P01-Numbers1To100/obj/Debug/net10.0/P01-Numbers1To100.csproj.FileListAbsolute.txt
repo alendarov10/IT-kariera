@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P01-Numbers1To100\bin\Debug\net10.0\P01-Numbers1To100.exe
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P01-Numbers1To100\bin\Debug\net10.0\P01-Numbers1To100.deps.json
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P01-Numbers1To100\bin\Debug\net10.0\P01-Numbers1To100.runtimeconfig.json
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P01-Numbers1To100\bin\Debug\net10.0\P01-Numbers1To100.dll
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P01-Numbers1To100\bin\Debug\net10.0\P01-Numbers1To100.pdb
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P01-Numbers1To100\obj\Debug\net10.0\P01-Numbers1To100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P01-Numbers1To100\obj\Debug\net10.0\P01-Numbers1To100.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P01-Numbers1To100\obj\Debug\net10.0\P01-Numbers1To100.AssemblyInfo.cs
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P01-Numbers1To100\obj\Debug\net10.0\P01-Numbers1To100.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P01-Numbers1To100\obj\Debug\net10.0\P01-Numbers1To100.dll
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P01-Numbers1To100\obj\Debug\net10.0\refint\P01-Numbers1To100.dll
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P01-Numbers1To100\obj\Debug\net10.0\P01-Numbers1To100.pdb
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P01-Numbers1To100\obj\Debug\net10.0\P01-Numbers1To100.genruntimeconfig.cache
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P01-Numbers1To100\obj\Debug\net10.0\ref\P01-Numbers1To100.dll

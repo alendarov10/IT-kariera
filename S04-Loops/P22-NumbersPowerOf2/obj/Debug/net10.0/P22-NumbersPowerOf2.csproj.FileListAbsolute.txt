@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P22-NumbersPowerOf2\bin\Debug\net10.0\P22-NumbersPowerOf2.exe
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P22-NumbersPowerOf2\bin\Debug\net10.0\P22-NumbersPowerOf2.deps.json
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P22-NumbersPowerOf2\bin\Debug\net10.0\P22-NumbersPowerOf2.runtimeconfig.json
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P22-NumbersPowerOf2\bin\Debug\net10.0\P22-NumbersPowerOf2.dll
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P22-NumbersPowerOf2\bin\Debug\net10.0\P22-NumbersPowerOf2.pdb
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P22-NumbersPowerOf2\obj\Debug\net10.0\P22-NumbersPowerOf2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P22-NumbersPowerOf2\obj\Debug\net10.0\P22-NumbersPowerOf2.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P22-NumbersPowerOf2\obj\Debug\net10.0\P22-NumbersPowerOf2.AssemblyInfo.cs
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P22-NumbersPowerOf2\obj\Debug\net10.0\P22-NumbersPowerOf2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P22-NumbersPowerOf2\obj\Debug\net10.0\P22-NumbersPowerOf2.dll
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P22-NumbersPowerOf2\obj\Debug\net10.0\refint\P22-NumbersPowerOf2.dll
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P22-NumbersPowerOf2\obj\Debug\net10.0\P22-NumbersPowerOf2.pdb
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P22-NumbersPowerOf2\obj\Debug\net10.0\P22-NumbersPowerOf2.genruntimeconfig.cache
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P22-NumbersPowerOf2\obj\Debug\net10.0\ref\P22-NumbersPowerOf2.dll

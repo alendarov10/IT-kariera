@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "P04-SumOfNumbers/1.0.0": {
+        "runtime": {
+          "P04-SumOfNumbers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P04-SumOfNumbers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

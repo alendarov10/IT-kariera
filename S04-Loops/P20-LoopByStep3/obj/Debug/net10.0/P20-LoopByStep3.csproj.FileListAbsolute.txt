@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P20-LoopByStep3\bin\Debug\net10.0\P20-LoopByStep3.exe
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P20-LoopByStep3\bin\Debug\net10.0\P20-LoopByStep3.deps.json
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P20-LoopByStep3\bin\Debug\net10.0\P20-LoopByStep3.runtimeconfig.json
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P20-LoopByStep3\bin\Debug\net10.0\P20-LoopByStep3.dll
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P20-LoopByStep3\bin\Debug\net10.0\P20-LoopByStep3.pdb
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P20-LoopByStep3\obj\Debug\net10.0\P20-LoopByStep3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P20-LoopByStep3\obj\Debug\net10.0\P20-LoopByStep3.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P20-LoopByStep3\obj\Debug\net10.0\P20-LoopByStep3.AssemblyInfo.cs
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P20-LoopByStep3\obj\Debug\net10.0\P20-LoopByStep3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P20-LoopByStep3\obj\Debug\net10.0\P20-LoopByStep3.dll
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P20-LoopByStep3\obj\Debug\net10.0\refint\P20-LoopByStep3.dll
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P20-LoopByStep3\obj\Debug\net10.0\P20-LoopByStep3.pdb
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P20-LoopByStep3\obj\Debug\net10.0\P20-LoopByStep3.genruntimeconfig.cache
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P20-LoopByStep3\obj\Debug\net10.0\ref\P20-LoopByStep3.dll

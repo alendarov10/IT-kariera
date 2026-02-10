@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P26-TheLCD (NOD)\bin\Debug\net10.0\P26-TheLCD (NOD).exe
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P26-TheLCD (NOD)\bin\Debug\net10.0\P26-TheLCD (NOD).deps.json
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P26-TheLCD (NOD)\bin\Debug\net10.0\P26-TheLCD (NOD).runtimeconfig.json
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P26-TheLCD (NOD)\bin\Debug\net10.0\P26-TheLCD (NOD).dll
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P26-TheLCD (NOD)\bin\Debug\net10.0\P26-TheLCD (NOD).pdb
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P26-TheLCD (NOD)\obj\Debug\net10.0\P26-TheLCD (NOD).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P26-TheLCD (NOD)\obj\Debug\net10.0\P26-TheLCD (NOD).AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P26-TheLCD (NOD)\obj\Debug\net10.0\P26-TheLCD (NOD).AssemblyInfo.cs
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P26-TheLCD (NOD)\obj\Debug\net10.0\P26-TheLCD (NOD).csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P26-TheLCD (NOD)\obj\Debug\net10.0\P26-TheLCD (NOD).dll
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P26-TheLCD (NOD)\obj\Debug\net10.0\refint\P26-TheLCD (NOD).dll
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P26-TheLCD (NOD)\obj\Debug\net10.0\P26-TheLCD (NOD).pdb
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P26-TheLCD (NOD)\obj\Debug\net10.0\P26-TheLCD (NOD).genruntimeconfig.cache
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P26-TheLCD (NOD)\obj\Debug\net10.0\ref\P26-TheLCD (NOD).dll

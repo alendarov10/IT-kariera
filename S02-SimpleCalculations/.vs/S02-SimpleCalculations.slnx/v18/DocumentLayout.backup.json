@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S02-SimpleCalculations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{064470F8-6B47-454B-AEE9-B5C15A0357E5}|Solution Items{064470F8-6B47-454B-AEE9-B5C15A0357E5}|C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S02-SimpleCalculations\\P13-1000_Days.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{064470F8-6B47-454B-AEE9-B5C15A0357E5}|Solution Items{064470F8-6B47-454B-AEE9-B5C15A0357E5}|solutionrelative:P13-1000_Days.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{064470F8-6B47-454B-AEE9-B5C15A0357E5}|Solution Items{064470F8-6B47-454B-AEE9-B5C15A0357E5}|C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S02-SimpleCalculations\\P12-Convert_Money.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{064470F8-6B47-454B-AEE9-B5C15A0357E5}|Solution Items{064470F8-6B47-454B-AEE9-B5C15A0357E5}|solutionrelative:P12-Convert_Money.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{064470F8-6B47-454B-AEE9-B5C15A0357E5}|Solution Items{064470F8-6B47-454B-AEE9-B5C15A0357E5}|C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S02-SimpleCalculations\\P11-Triangle_Area.CS||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{064470F8-6B47-454B-AEE9-B5C15A0357E5}|Solution Items{064470F8-6B47-454B-AEE9-B5C15A0357E5}|solutionrelative:P11-Triangle_Area.CS||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{064470F8-6B47-454B-AEE9-B5C15A0357E5}|Solution Items{064470F8-6B47-454B-AEE9-B5C15A0357E5}|C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S02-SimpleCalculations\\P10-Rectangle_Area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{064470F8-6B47-454B-AEE9-B5C15A0357E5}|Solution Items{064470F8-6B47-454B-AEE9-B5C15A0357E5}|solutionrelative:P10-Rectangle_Area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{064470F8-6B47-454B-AEE9-B5C15A0357E5}|Solution Items{064470F8-6B47-454B-AEE9-B5C15A0357E5}|C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S02-SimpleCalculations\\P09-Area_Perimeter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{064470F8-6B47-454B-AEE9-B5C15A0357E5}|Solution Items{064470F8-6B47-454B-AEE9-B5C15A0357E5}|solutionrelative:P09-Area_Perimeter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{064470F8-6B47-454B-AEE9-B5C15A0357E5}|Solution Items{064470F8-6B47-454B-AEE9-B5C15A0357E5}|C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S02-SimpleCalculations\\P08-Trapezoid_Area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{064470F8-6B47-454B-AEE9-B5C15A0357E5}|Solution Items{064470F8-6B47-454B-AEE9-B5C15A0357E5}|solutionrelative:P08-Trapezoid_Area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{064470F8-6B47-454B-AEE9-B5C15A0357E5}|Solution Items{064470F8-6B47-454B-AEE9-B5C15A0357E5}|C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S02-SimpleCalculations\\P07-Convert_USD_BGN.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{064470F8-6B47-454B-AEE9-B5C15A0357E5}|Solution Items{064470F8-6B47-454B-AEE9-B5C15A0357E5}|solutionrelative:P07-Convert_USD_BGN.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{064470F8-6B47-454B-AEE9-B5C15A0357E5}|Solution Items{064470F8-6B47-454B-AEE9-B5C15A0357E5}|C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S02-SimpleCalculations\\P06-Convert_Rad_Deg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{064470F8-6B47-454B-AEE9-B5C15A0357E5}|Solution Items{064470F8-6B47-454B-AEE9-B5C15A0357E5}|solutionrelative:P06-Convert_Rad_Deg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{064470F8-6B47-454B-AEE9-B5C15A0357E5}|Solution Items{064470F8-6B47-454B-AEE9-B5C15A0357E5}|C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S02-SimpleCalculations\\P05-ConvertCtoF.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{064470F8-6B47-454B-AEE9-B5C15A0357E5}|Solution Items{064470F8-6B47-454B-AEE9-B5C15A0357E5}|solutionrelative:P05-ConvertCtoF.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{064470F8-6B47-454B-AEE9-B5C15A0357E5}|Solution Items{064470F8-6B47-454B-AEE9-B5C15A0357E5}|C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S02-SimpleCalculations\\P03-Greeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{064470F8-6B47-454B-AEE9-B5C15A0357E5}|Solution Items{064470F8-6B47-454B-AEE9-B5C15A0357E5}|solutionrelative:P03-Greeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{064470F8-6B47-454B-AEE9-B5C15A0357E5}|Solution Items{064470F8-6B47-454B-AEE9-B5C15A0357E5}|C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S02-SimpleCalculations\\P03-ConcatenateData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{064470F8-6B47-454B-AEE9-B5C15A0357E5}|Solution Items{064470F8-6B47-454B-AEE9-B5C15A0357E5}|solutionrelative:P03-ConcatenateData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{064470F8-6B47-454B-AEE9-B5C15A0357E5}|Solution Items{064470F8-6B47-454B-AEE9-B5C15A0357E5}|C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S02-SimpleCalculations\\P02-InchesToCentimeters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{064470F8-6B47-454B-AEE9-B5C15A0357E5}|Solution Items{064470F8-6B47-454B-AEE9-B5C15A0357E5}|solutionrelative:P02-InchesToCentimeters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{064470F8-6B47-454B-AEE9-B5C15A0357E5}|Solution Items{064470F8-6B47-454B-AEE9-B5C15A0357E5}|C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S02-SimpleCalculations\\P01-SquareArea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{064470F8-6B47-454B-AEE9-B5C15A0357E5}|Solution Items{064470F8-6B47-454B-AEE9-B5C15A0357E5}|solutionrelative:P01-SquareArea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{064470F8-6B47-454B-AEE9-B5C15A0357E5}|Solution Items{064470F8-6B47-454B-AEE9-B5C15A0357E5}|C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S02-SimpleCalculations\\P00-SandBox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{064470F8-6B47-454B-AEE9-B5C15A0357E5}|Solution Items{064470F8-6B47-454B-AEE9-B5C15A0357E5}|solutionrelative:P00-SandBox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "P13-1000_Days.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S02-SimpleCalculations\\P13-1000_Days.cs",
+              "RelativeDocumentMoniker": "P13-1000_Days.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S02-SimpleCalculations\\P13-1000_Days.cs",
+              "RelativeToolTip": "P13-1000_Days.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T20:29:35.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "P12-Convert_Money.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S02-SimpleCalculations\\P12-Convert_Money.cs",
+              "RelativeDocumentMoniker": "P12-Convert_Money.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S02-SimpleCalculations\\P12-Convert_Money.cs",
+              "RelativeToolTip": "P12-Convert_Money.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T20:28:38.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "P11-Triangle_Area.CS",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S02-SimpleCalculations\\P11-Triangle_Area.CS",
+              "RelativeDocumentMoniker": "P11-Triangle_Area.CS",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S02-SimpleCalculations\\P11-Triangle_Area.CS",
+              "RelativeToolTip": "P11-Triangle_Area.CS",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T20:25:59.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "P10-Rectangle_Area.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S02-SimpleCalculations\\P10-Rectangle_Area.cs",
+              "RelativeDocumentMoniker": "P10-Rectangle_Area.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S02-SimpleCalculations\\P10-Rectangle_Area.cs",
+              "RelativeToolTip": "P10-Rectangle_Area.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T20:25:21.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "P09-Area_Perimeter.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S02-SimpleCalculations\\P09-Area_Perimeter.cs",
+              "RelativeDocumentMoniker": "P09-Area_Perimeter.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S02-SimpleCalculations\\P09-Area_Perimeter.cs",
+              "RelativeToolTip": "P09-Area_Perimeter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T20:23:58.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "P08-Trapezoid_Area.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S02-SimpleCalculations\\P08-Trapezoid_Area.cs",
+              "RelativeDocumentMoniker": "P08-Trapezoid_Area.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S02-SimpleCalculations\\P08-Trapezoid_Area.cs",
+              "RelativeToolTip": "P08-Trapezoid_Area.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T20:23:23.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "P07-Convert_USD_BGN.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S02-SimpleCalculations\\P07-Convert_USD_BGN.cs",
+              "RelativeDocumentMoniker": "P07-Convert_USD_BGN.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S02-SimpleCalculations\\P07-Convert_USD_BGN.cs",
+              "RelativeToolTip": "P07-Convert_USD_BGN.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T20:22:01.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "P06-Convert_Rad_Deg.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S02-SimpleCalculations\\P06-Convert_Rad_Deg.cs",
+              "RelativeDocumentMoniker": "P06-Convert_Rad_Deg.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S02-SimpleCalculations\\P06-Convert_Rad_Deg.cs",
+              "RelativeToolTip": "P06-Convert_Rad_Deg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T20:18:57.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "P05-ConvertCtoF.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S02-SimpleCalculations\\P05-ConvertCtoF.cs",
+              "RelativeDocumentMoniker": "P05-ConvertCtoF.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S02-SimpleCalculations\\P05-ConvertCtoF.cs",
+              "RelativeToolTip": "P05-ConvertCtoF.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T20:14:51.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "P03-Greeting.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S02-SimpleCalculations\\P03-Greeting.cs",
+              "RelativeDocumentMoniker": "P03-Greeting.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S02-SimpleCalculations\\P03-Greeting.cs",
+              "RelativeToolTip": "P03-Greeting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T20:12:18.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "P03-ConcatenateData.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S02-SimpleCalculations\\P03-ConcatenateData.cs",
+              "RelativeDocumentMoniker": "P03-ConcatenateData.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S02-SimpleCalculations\\P03-ConcatenateData.cs",
+              "RelativeToolTip": "P03-ConcatenateData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T20:10:47.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "P02-InchesToCentimeters.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S02-SimpleCalculations\\P02-InchesToCentimeters.cs",
+              "RelativeDocumentMoniker": "P02-InchesToCentimeters.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S02-SimpleCalculations\\P02-InchesToCentimeters.cs",
+              "RelativeToolTip": "P02-InchesToCentimeters.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T20:09:33.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "P01-SquareArea.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S02-SimpleCalculations\\P01-SquareArea.cs",
+              "RelativeDocumentMoniker": "P01-SquareArea.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S02-SimpleCalculations\\P01-SquareArea.cs",
+              "RelativeToolTip": "P01-SquareArea.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T20:08:11.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "P00-SandBox.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S02-SimpleCalculations\\P00-SandBox.cs",
+              "RelativeDocumentMoniker": "P00-SandBox.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\S02-SimpleCalculations\\P00-SandBox.cs",
+              "RelativeToolTip": "P00-SandBox.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T20:05:43.232Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

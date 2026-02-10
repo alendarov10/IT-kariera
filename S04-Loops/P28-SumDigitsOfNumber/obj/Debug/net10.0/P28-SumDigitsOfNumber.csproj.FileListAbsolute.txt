@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P28-SumDigitsOfNumber\bin\Debug\net10.0\P28-SumDigitsOfNumber.exe
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P28-SumDigitsOfNumber\bin\Debug\net10.0\P28-SumDigitsOfNumber.deps.json
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P28-SumDigitsOfNumber\bin\Debug\net10.0\P28-SumDigitsOfNumber.runtimeconfig.json
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P28-SumDigitsOfNumber\bin\Debug\net10.0\P28-SumDigitsOfNumber.dll
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P28-SumDigitsOfNumber\bin\Debug\net10.0\P28-SumDigitsOfNumber.pdb
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P28-SumDigitsOfNumber\obj\Debug\net10.0\P28-SumDigitsOfNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P28-SumDigitsOfNumber\obj\Debug\net10.0\P28-SumDigitsOfNumber.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P28-SumDigitsOfNumber\obj\Debug\net10.0\P28-SumDigitsOfNumber.AssemblyInfo.cs
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P28-SumDigitsOfNumber\obj\Debug\net10.0\P28-SumDigitsOfNumber.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P28-SumDigitsOfNumber\obj\Debug\net10.0\P28-SumDigitsOfNumber.dll
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P28-SumDigitsOfNumber\obj\Debug\net10.0\refint\P28-SumDigitsOfNumber.dll
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P28-SumDigitsOfNumber\obj\Debug\net10.0\P28-SumDigitsOfNumber.pdb
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P28-SumDigitsOfNumber\obj\Debug\net10.0\P28-SumDigitsOfNumber.genruntimeconfig.cache
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P28-SumDigitsOfNumber\obj\Debug\net10.0\ref\P28-SumDigitsOfNumber.dll

@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P25-NumberInRange1_100\bin\Debug\net10.0\P25-NumberInRange1_100.exe
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P25-NumberInRange1_100\bin\Debug\net10.0\P25-NumberInRange1_100.deps.json
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P25-NumberInRange1_100\bin\Debug\net10.0\P25-NumberInRange1_100.runtimeconfig.json
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P25-NumberInRange1_100\bin\Debug\net10.0\P25-NumberInRange1_100.dll
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P25-NumberInRange1_100\bin\Debug\net10.0\P25-NumberInRange1_100.pdb
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P25-NumberInRange1_100\obj\Debug\net10.0\P25-NumberInRange1_100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P25-NumberInRange1_100\obj\Debug\net10.0\P25-NumberInRange1_100.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P25-NumberInRange1_100\obj\Debug\net10.0\P25-NumberInRange1_100.AssemblyInfo.cs
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P25-NumberInRange1_100\obj\Debug\net10.0\P25-NumberInRange1_100.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P25-NumberInRange1_100\obj\Debug\net10.0\P25-NumberInRange1_100.dll
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P25-NumberInRange1_100\obj\Debug\net10.0\refint\P25-NumberInRange1_100.dll
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P25-NumberInRange1_100\obj\Debug\net10.0\P25-NumberInRange1_100.pdb
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P25-NumberInRange1_100\obj\Debug\net10.0\P25-NumberInRange1_100.genruntimeconfig.cache
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P25-NumberInRange1_100\obj\Debug\net10.0\ref\P25-NumberInRange1_100.dll

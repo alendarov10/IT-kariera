@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64E3C13F-8DE0-4CCD-8F4F-0327DE33B25C}|Solution Items{64E3C13F-8DE0-4CCD-8F4F-0327DE33B25C}|C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\ConsoleApp1\\P04-TriangleOf55Stars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E3C13F-8DE0-4CCD-8F4F-0327DE33B25C}|Solution Items{64E3C13F-8DE0-4CCD-8F4F-0327DE33B25C}|solutionrelative:P04-TriangleOf55Stars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E3C13F-8DE0-4CCD-8F4F-0327DE33B25C}|Solution Items{64E3C13F-8DE0-4CCD-8F4F-0327DE33B25C}|C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\ConsoleApp1\\P05-RectangleSquare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E3C13F-8DE0-4CCD-8F4F-0327DE33B25C}|Solution Items{64E3C13F-8DE0-4CCD-8F4F-0327DE33B25C}|solutionrelative:P05-RectangleSquare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E3C13F-8DE0-4CCD-8F4F-0327DE33B25C}|Solution Items{64E3C13F-8DE0-4CCD-8F4F-0327DE33B25C}|C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\ConsoleApp1\\P01-HelloSoftUni.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{64E3C13F-8DE0-4CCD-8F4F-0327DE33B25C}|Solution Items{64E3C13F-8DE0-4CCD-8F4F-0327DE33B25C}|solutionrelative:P01-HelloSoftUni.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E3C13F-8DE0-4CCD-8F4F-0327DE33B25C}|Solution Items{64E3C13F-8DE0-4CCD-8F4F-0327DE33B25C}|C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\ConsoleApp1\\P06-SquareOfNStars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E3C13F-8DE0-4CCD-8F4F-0327DE33B25C}|Solution Items{64E3C13F-8DE0-4CCD-8F4F-0327DE33B25C}|solutionrelative:P06-SquareOfNStars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E3C13F-8DE0-4CCD-8F4F-0327DE33B25C}|Solution Items{64E3C13F-8DE0-4CCD-8F4F-0327DE33B25C}|C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\ConsoleApp1\\P03-Nums1To20.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E3C13F-8DE0-4CCD-8F4F-0327DE33B25C}|Solution Items{64E3C13F-8DE0-4CCD-8F4F-0327DE33B25C}|solutionrelative:P03-Nums1To20.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E3C13F-8DE0-4CCD-8F4F-0327DE33B25C}|Solution Items{64E3C13F-8DE0-4CCD-8F4F-0327DE33B25C}|C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\ConsoleApp1\\P02-Expression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E3C13F-8DE0-4CCD-8F4F-0327DE33B25C}|Solution Items{64E3C13F-8DE0-4CCD-8F4F-0327DE33B25C}|solutionrelative:P02-Expression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "P06-SquareOfNStars.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\ConsoleApp1\\P06-SquareOfNStars.cs",
+              "RelativeDocumentMoniker": "P06-SquareOfNStars.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\ConsoleApp1\\P06-SquareOfNStars.cs",
+              "RelativeToolTip": "P06-SquareOfNStars.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T19:53:24.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "P05-RectangleSquare.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\ConsoleApp1\\P05-RectangleSquare.cs",
+              "RelativeDocumentMoniker": "P05-RectangleSquare.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\ConsoleApp1\\P05-RectangleSquare.cs",
+              "RelativeToolTip": "P05-RectangleSquare.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T19:51:04.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "P04-TriangleOf55Stars.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\ConsoleApp1\\P04-TriangleOf55Stars.cs",
+              "RelativeDocumentMoniker": "P04-TriangleOf55Stars.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\ConsoleApp1\\P04-TriangleOf55Stars.cs",
+              "RelativeToolTip": "P04-TriangleOf55Stars.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T19:47:26.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "P03-Nums1To20.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\ConsoleApp1\\P03-Nums1To20.cs",
+              "RelativeDocumentMoniker": "P03-Nums1To20.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\ConsoleApp1\\P03-Nums1To20.cs",
+              "RelativeToolTip": "P03-Nums1To20.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T19:46:14.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "P02-Expression.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\ConsoleApp1\\P02-Expression.cs",
+              "RelativeDocumentMoniker": "P02-Expression.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\ConsoleApp1\\P02-Expression.cs",
+              "RelativeToolTip": "P02-Expression.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T19:45:16.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "P01-HelloSoftUni.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\ConsoleApp1\\P01-HelloSoftUni.cs",
+              "RelativeDocumentMoniker": "P01-HelloSoftUni.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\IbrahimAlendar-IT-career\\ConsoleApp1\\P01-HelloSoftUni.cs",
+              "RelativeToolTip": "P01-HelloSoftUni.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T19:40:55.501Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

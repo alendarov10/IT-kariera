@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P16-ChristmasTree\bin\Debug\net10.0\P16-ChristmasTree.exe
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P16-ChristmasTree\bin\Debug\net10.0\P16-ChristmasTree.deps.json
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P16-ChristmasTree\bin\Debug\net10.0\P16-ChristmasTree.runtimeconfig.json
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P16-ChristmasTree\bin\Debug\net10.0\P16-ChristmasTree.dll
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P16-ChristmasTree\bin\Debug\net10.0\P16-ChristmasTree.pdb
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P16-ChristmasTree\obj\Debug\net10.0\P16-ChristmasTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P16-ChristmasTree\obj\Debug\net10.0\P16-ChristmasTree.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P16-ChristmasTree\obj\Debug\net10.0\P16-ChristmasTree.AssemblyInfo.cs
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P16-ChristmasTree\obj\Debug\net10.0\P16-ChristmasTree.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P16-ChristmasTree\obj\Debug\net10.0\P16-ChristmasTree.dll
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P16-ChristmasTree\obj\Debug\net10.0\refint\P16-ChristmasTree.dll
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P16-ChristmasTree\obj\Debug\net10.0\P16-ChristmasTree.pdb
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P16-ChristmasTree\obj\Debug\net10.0\P16-ChristmasTree.genruntimeconfig.cache
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P16-ChristmasTree\obj\Debug\net10.0\ref\P16-ChristmasTree.dll

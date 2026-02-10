@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P14-SquareFrame\bin\Debug\net10.0\P14-SquareFrame.exe
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P14-SquareFrame\bin\Debug\net10.0\P14-SquareFrame.deps.json
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P14-SquareFrame\bin\Debug\net10.0\P14-SquareFrame.runtimeconfig.json
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P14-SquareFrame\bin\Debug\net10.0\P14-SquareFrame.dll
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P14-SquareFrame\bin\Debug\net10.0\P14-SquareFrame.pdb
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P14-SquareFrame\obj\Debug\net10.0\P14-SquareFrame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P14-SquareFrame\obj\Debug\net10.0\P14-SquareFrame.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P14-SquareFrame\obj\Debug\net10.0\P14-SquareFrame.AssemblyInfo.cs
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P14-SquareFrame\obj\Debug\net10.0\P14-SquareFrame.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P14-SquareFrame\obj\Debug\net10.0\P14-SquareFrame.dll
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P14-SquareFrame\obj\Debug\net10.0\refint\P14-SquareFrame.dll
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P14-SquareFrame\obj\Debug\net10.0\P14-SquareFrame.pdb
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P14-SquareFrame\obj\Debug\net10.0\P14-SquareFrame.genruntimeconfig.cache
+C:\Users\Admin\Desktop\IbrahimAlendar-IT-career\S04-Loops\P14-SquareFrame\obj\Debug\net10.0\ref\P14-SquareFrame.dll
